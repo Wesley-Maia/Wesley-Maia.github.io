@@ -22,7 +22,7 @@ prj3.addEventListener('click',changeTech);
 function pageRedirect(event) {
 
   if(event.target.id === 'prj1') {
-    window.location.replace('https://github.com/Wesley-Maia/trybe-exercises')
+    window.location.replace('https://wesley-maia.github.io/paradise-hotel-react/')
   }
 
   if(event.target.id === 'prj2') {
